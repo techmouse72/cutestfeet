@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cutest Feet 2024</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            color: #333;
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #fff;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h1 {
+            text-align: center;
+            margin-bottom: 20px;
+            font-size: 2.5em;
+            animation: color-change 3s infinite;
+        }
+        h2 {
+            text-align: center;
+            font-style: italic;
+            margin-bottom: 40px;
+        }
+        .entry {
+            margin-bottom: 40px;
+        }
+        .entry img {
+            max-width: 100%;
+            height: auto;
+            display: block;
+            margin: 0 auto;
+        }
+        .entry p {
+            margin-top: 10px;
+            font-size: 16px;
+        }
+        @keyframes color-change {
+            0% { color: red; }
+            25% { color: blue; }
+            50% { color: green; }
+            75% { color: purple; }
+            100% { color: red; }
+        }
+        .disclaimer {
+            font-size: 0.9em;
+            color: #555;
+            margin-top: 20px;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Cutest Feet 2024</h1>
+        <h2>Welcome to the Cutest Feet 2024!</h2>
+        <p>This contest showcases the cutest feet as judged by me, Robert Senna, on FootFinder. With 75 amazing entrants, I'm thrilled to present the top 10. Choosing just 10 out of 75 was a tough decision. If your entry didn't make it, don't worry—I may hold another contest soon! Thank you to everyone who participated!</p>
+        <div class="disclaimer">Disclaimer: If you do not want your name or foot picture displayed on this site, please contact me on FootFinder (username: Rob111), and I will remove it promptly.</div>
+
+        <!-- Entry 1 -->
+        <div class="entry">
+            <img src="images/foot1.jpg" alt="Best Feet Entry 1">
+            <p>Generate your commentary here.</p>
+        </div>
+
+        <!-- Entry 2 -->
+        <div class="entry">
+            <img src="images/foot2.jpg" alt="Best Feet Entry 2">
+            <p>Generate your commentary here.</p>
+        </div>
+
+        <!-- Entry 3 -->
+        <div class="entry">
+            <img src="images/foot3.jpg" alt="Best Feet Entry 3">
+            <p>Generate your commentary here.</p>
+        </div>
+
+        <!-- Entry 4 -->
+        <div class="entry">
+            <img src="images/foot4.jpg" alt="Best Feet Entry 4">
+            <p>Generate your commentary here.</p>
+        </div>
+
+        <!-- Entry 5 -->
+        <div class="entry">
+            <img src="images/foot5.jpg" alt="Best Feet Entry 5">
+            <p>Generate your commentary here.</p>
+        </div>
+
+        <!-- Entry 6 -->
+        <div class="entry">
+            <img src="images/foot6.jpg" alt="Best Feet Entry 6">
+            <p>Generate your commentary here.</p>
+        </div>
+
+        <!-- Entry 7 -->
+        <div class="entry">
+            <img src="images/foot7.jpg" alt="Best Feet Entry 7">
+            <p>Generate your commentary here.</p>
+        </div>
+
+        <!-- Entry 8 -->
+        <div class="entry">
+            <img src="images/foot8.jpg" alt="Best Feet Entry 8">
+            <p>Generate your commentary here.</p>
+        </div>
+
+        <!-- Entry 9 -->
+        <div class="entry">
+            <img src="images/foot9.jpg" alt="Best Feet Entry 9">
+            <p>Generate your commentary here.</p>
+        </div>
+
+        <!-- Entry 10 -->
+        <div class="entry">
+            <img src="images/foot10.jpg" alt="Best Feet Entry 10">
+            <p>Generate your commentary here.</p>
+        </div>
+    </div>
+</body>
+</html>
